@@ -1,6 +1,6 @@
 Resolusi saya :
 - membuat web profile 
 - memperkaya portfolio
-- belajar lebih giat
 - belajar backend webdev
 - belajar web security
+- become fullstack webdev
