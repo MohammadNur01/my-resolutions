@@ -3,4 +3,3 @@ Resolusi saya :
 - memperkaya portfolio
 - belajar backend webdev
 - belajar web security
-- become fullstack webdev
